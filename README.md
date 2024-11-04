@@ -5,7 +5,7 @@ Staff Software Engineer at VTEX
 -------------------------------
 
 * 🌍  I'm based in Lisbon
-* ✉️  You can contact me at [mateuspo10 @ gmail.com](mailto:mateuspo10 @ gmail.com)
+* ✉️  You can contact me at mateuspo10 @ gmail.com
 * 🚀  I'm currently working on [VTEX](http://vtex.com)
 * 🤝  I'm open to collaborating on OSS projects and new challenges for headless commerce platforms
 
